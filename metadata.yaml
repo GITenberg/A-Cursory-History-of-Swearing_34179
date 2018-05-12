@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36844'
     url: http://www.gutenberg.org/2009/agents/36844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34179#A-Cursory-History-of-Swearing
 gutenberg_issued: '2010-10-31'
 gutenberg_type: Text
 identifiers:
